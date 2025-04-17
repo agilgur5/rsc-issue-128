@@ -1,6 +1,6 @@
 # `react-signature-canvas` issue 128 reproduction
 
-This is a minimal Next.js reproduction for [`react-signature-canvas` issue 128](https://github.com/agilgur5/react-signature-canvas/issues/128). See a maintainer summary at https://github.com/agilgur5/react-signature-canvas/issues/128#issuecomment-2786913293
+This is a minimal Next.js reproduction for [`react-signature-canvas` issue 128](https://github.com/agilgur5/react-signature-canvas/issues/128). See a live demo [on StackBlitz](https://stackblitz.com/edit/rsc-issue-128). See a maintainer summary at https://github.com/agilgur5/react-signature-canvas/issues/128#issuecomment-2786913293
 
 ## Steps to Reproduce
 
