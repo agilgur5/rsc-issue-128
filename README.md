@@ -26,7 +26,7 @@ The runtime error no longer appears when using a CJS/UMD build.
 
    This uses the UMD build instead of the ESM build.
 
-1. Using an older version of `react-signature-canvas`, `1.0.7`.
+1. Using an older version of `react-signature-canvas`, `1.0.7`. \
    This is a functionally equivalent version, but _only_ has a UMD build (its build system pre-dates the ESM spec).
 
 ## Other Troubleshooting
